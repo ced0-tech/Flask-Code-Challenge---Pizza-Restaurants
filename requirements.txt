@@ -9,8 +9,7 @@ Flask-Migrate
 Flask-RESTful
 Flask-SQLAlchemy
 greenlet
-gunicorn
-iniconfig
+iniconfiggit
 itsdangerous
 Jinja2
 Mako
@@ -28,3 +27,5 @@ SQLAlchemy-serializer
 tomli
 typing_extensions
 Werkzeug
+flask-swagger-ui
+gunicorn
